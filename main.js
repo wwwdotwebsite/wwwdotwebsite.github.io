@@ -1,5 +1,5 @@
 var turtle = document.getElementById("turtleimage");
 
 turtle.addEventListener('click',function(){
-    turtle.size += 7;
+    turtle.length += 7;
 });
